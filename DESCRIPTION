@@ -1,10 +1,13 @@
-Package: cates
+Package: cats
 Type: Package
 Title: What the Package Does (Title Case)
-Version: 0.0.0
-Author: Enrico Ciavolino
-Maintainer: Enrico Ciavolino <enrico.ciavolino@unisalento.it>
-Description: Structural Equation Models with Partial Least Squares
-License: GPL-3
+Version: 0.1.0
+Author: Who wrote it
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
 Encoding: UTF-8
 LazyData: true
+Imports: Rcpp (>= 1.0.5)
+LinkingTo: Rcpp
