@@ -1,0 +1,10 @@
+Package: cates
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.0.0
+Author: Enrico Ciavolino
+Maintainer: Enrico Ciavolino <enrico.ciavolino@unisalento.it>
+Description: Structural Equation Models with Partial Least Squares
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
